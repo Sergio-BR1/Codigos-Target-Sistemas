@@ -1,2 +1,2 @@
-# Inverter-Texto
-a text inverter code created for a job test
+# Códigos Target Sistemas
+Códigos criados para o teste de estágio da Target Sistemas
