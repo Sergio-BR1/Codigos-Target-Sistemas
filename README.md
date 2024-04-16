@@ -2,3 +2,4 @@
 Códigos criados para o teste de estágio da Target Sistemas
 
 + [Sequência de Fibonacci](./fibonacci)
++ [Inversor de String](./inverterTexto)
